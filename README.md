@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Header](https://github.com/vicky1in/vicky1in/raw/master/assets/VickyLin.gif "Header")](https://www.linkedin.com/in/vickylinau/)
+
 
 <!--
 **vicky1in/vicky1in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
