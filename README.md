@@ -21,7 +21,7 @@ I'm motivated by teams that are passionate about their work. I believe in clear 
 - Playing games with a good story
 - Learning new languages (私の日本語は悪いけど)
 - Making things such as origami, knitting, crocheting, watercolour painting
-- Listening to anything but country music
+- Listening to anything but country music (with exceptions like old Taylor Swift) 
 - Travelling overseas
 
 -----
