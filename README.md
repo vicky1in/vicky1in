@@ -7,6 +7,6 @@ Hi, my name is Vicky. I'm a graduating software engineer from Sydney, educated a
 -----
 
 ### 📧 Link with me 
-  [LinkedIn](https://www.linkedin.com/in/vickylinau) | [Resume](https://resume.io/r/LSfLx0pE4)
+  [LinkedIn](https://www.linkedin.com/in/vickylinau) | [Resume](https://resume.io/r/LSfLx0pE4) 
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vicky1in.visitor-badge)
+<div align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=vicky1in.visitor-badge)</div>
