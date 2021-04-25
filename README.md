@@ -9,5 +9,5 @@ Hi, my name is Vicky. I'm a graduating software engineer from Sydney, educated a
 ### Link with me 📧 
 <p align="center">
   <strong><a href="https://www.linkedin.com/in/vickylinau">LinkedIn</a></strong> |
-  <strong><a href="https://resume.io/r/LSfLx0pE4">Resume</a></strong> |
+  <strong><a href="https://resume.io/r/LSfLx0pE4">Resume</a></strong> 
 </p>
